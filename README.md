@@ -1,2 +1,2 @@
-# robustness_iot_systems
-Methodology of Assessing Robustness on IoT System
+# An Approach to Assess Robustness of MQTT-based IoT Systems
+Replication package for the Methodology of Assessing Robustness on IoT Architecture
