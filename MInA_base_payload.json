@@ -1,0 +1,8 @@
+{
+    "workCenterId": "1",
+    "quantity": 100,
+    "countType": "GoodCount",
+    "reasonId": "Produzindo",
+    "fromDevice": true,
+    "userId": "bruno.jesus@ic.ufal.br"
+}
